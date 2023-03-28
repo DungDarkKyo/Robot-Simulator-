@@ -1,0 +1,20 @@
+Enter command: p
+Invalid command.
+Enter command: PLCAS
+Invalid command.
+Enter command: PLACE 2,2,SOUTH
+Enter command: MOVE
+Enter command: MOVE
+Enter command: MOVE
+Invalid command.
+Enter command: LEFT
+Enter command: MOVE
+Enter command: RIGHT
+Enter command: MOVE
+Invalid command.
+Enter command: LEFT
+Enter command: MOVE
+Enter command: LEFT
+Enter command: MOVE
+Enter command: REPORT
+X:4, Y:1, F:NORTH
